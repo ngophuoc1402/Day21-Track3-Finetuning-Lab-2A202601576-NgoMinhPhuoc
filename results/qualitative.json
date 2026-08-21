@@ -1,0 +1,32 @@
+[
+  {
+    "i": 0,
+    "ticket": "Shop ơi, mình đặt balo laptop mã đơn VN411453. Cho tôi trả lại...",
+    "ft_score": 1.0,
+    "ft_pred": "{\"intent\": \"doi_tra\", \"urgency\": \"trung_binh\", \"product\": \"balo laptop\", \"sentiment\": \"trung_tinh\"}"
+  },
+  {
+    "i": 1,
+    "ticket": "Shop giao sai màu rồi shop ơi, mình đặt tai nghe bluetooth màu đen mà giao màu trắng...",
+    "ft_score": 1.0,
+    "ft_pred": "{\"intent\": \"san_pham_loi\", \"urgency\": \"cao\", \"product\": \"tai nghe bluetooth\", \"sentiment\": \"tieu_cuc\"}"
+  },
+  {
+    "i": 2,
+    "ticket": "Cho mình hỏi bàn phím cơ này có được bảo hành không vậy shop?",
+    "ft_score": 1.0,
+    "ft_pred": "{\"intent\": \"hoi_thong_tin\", \"urgency\": \"thap\", \"product\": \"bàn phím cơ\", \"sentiment\": \"trung_tinh\"}"
+  },
+  {
+    "i": 3,
+    "ticket": "Đơn hàng chuột không dây của mình khi nào giao vậy? Lâu quá shop ơi, sốt ruột ghê...",
+    "ft_score": 0.75,
+    "ft_pred": "{\"intent\": \"van_chuyen\", \"urgency\": \"trung_binh\", \"product\": \"chuột không dây\", \"sentiment\": \"tieu_cuc\"}"
+  },
+  {
+    "i": 4,
+    "ticket": "Tôi muốn hủy đơn hàng mã DH998124 và hoàn tiền lại cho tôi. Làm ăn kiểu gì chậm trễ thế!",
+    "ft_score": 0.5,
+    "ft_pred": "{\"intent\": \"hoan_tien\", \"urgency\": \"cao\", \"product\": \"\", \"sentiment\": \"tieu_cuc\"}"
+  }
+]
